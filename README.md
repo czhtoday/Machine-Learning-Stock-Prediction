@@ -2,6 +2,9 @@
 
 This project aims to predict the next day's S&P 500 stock price movement (up or down) using machine learning techniques. The project leverages historical stock data and employs a Random Forest classifier to make predictions. Additionally, it explores the use of various technical indicators to enhance the model's accuracy.
 
+## Author
+Zhihang Cheng
+
 ## Technologies Used
 
 - **Python**: The main programming language used for data manipulation, model training, and evaluation.
